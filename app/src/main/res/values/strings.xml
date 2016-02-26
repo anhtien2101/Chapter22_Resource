@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chapter22_Picture</string>
+    <string name="funky_format">My name is &lt;b&gt;%1$s&lt;/b&gt;</string>
+</resources>
