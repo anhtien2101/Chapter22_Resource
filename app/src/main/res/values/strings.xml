@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Chapter22_Style</string>
+    <string name="btn_name">Name: </string>
+    <string name="funky_format">My name is &lt;b&gt;%1$s&lt;/b&gt;</string>
+</resources>
